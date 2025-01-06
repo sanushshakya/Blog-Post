@@ -20,7 +20,7 @@ The Blog App project is designed to implement a full-featured system that inte
 - SESSION_SECRET=get_this_from_google_developer_console
 - GOOGLE_CALLBACK_URI=path_to_your_callback_uri
 
-# To Setup MongoDB
+## To Setup MongoDB
 
 - https://www.geeksforgeeks.org/how-to-start-mongodb-local-server/
 
